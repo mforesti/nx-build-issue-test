@@ -13,6 +13,30 @@
     },
     "nx-issues": {
       "tags": []
+    },
+    "domain-a-lib-a": {
+      "tags": []
+    },
+    "domain-a-lib-b": {
+      "tags": []
+    },
+    "domain-b-lib-a": {
+      "tags": []
+    },
+    "domain-b-lib-c": {
+      "tags": []
+    },
+    "domain-b-lib-d": {
+      "tags": []
+    },
+    "shared-util-a": {
+      "tags": []
+    },
+    "shared-util-b": {
+      "tags": []
+    },
+    "shared-util-c": {
+      "tags": []
     }
   }
 }

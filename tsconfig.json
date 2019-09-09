@@ -15,7 +15,16 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@nx-issues/domain-a/lib-a": ["libs/domain-a/lib-a/src/index.ts"],
+      "@nx-issues/domain-a/lib-b": ["libs/domain-a/lib-b/src/index.ts"],
+      "@nx-issues/domain-b/lib-a": ["libs/domain-b/lib-a/src/index.ts"],
+      "@nx-issues/domain-b/lib-c": ["libs/domain-b/lib-c/src/index.ts"],
+      "@nx-issues/domain-b/lib-d": ["libs/domain-b/lib-d/src/index.ts"],
+      "@nx-issues/shared/util-a": ["libs/shared/util-a/src/index.ts"],
+      "@nx-issues/shared/util-b": ["libs/shared/util-b/src/index.ts"],
+      "@nx-issues/shared/util-c": ["libs/shared/util-c/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
