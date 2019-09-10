@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^8.1.1",
-    "@angular/core": "^8.1.1"
+    "@angular/core": "^8.1.1",
+    "@nx-issues/shared-util-a": "0.0.0",
+    "@nx-issues/shared-util-b": "0.0.0",
+    "@nx-issues/shared-util-c": "0.0.0"
   }
 }
